@@ -283,6 +283,7 @@ img.mfp-img {
   cursor: auto; }
 
 .mfp-title {
+  visibility: hidden;
   text-align: left;
   line-height: 18px;
   color: #f3f3f3;
